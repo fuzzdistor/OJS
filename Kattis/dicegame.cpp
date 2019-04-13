@@ -1,6 +1,7 @@
 //dicegame.cpp
 #include <iostream>
 
+
 int main()
 {
     int die[8];
